@@ -16,6 +16,7 @@
   "devDependencies": {
     "@types/react": "17.0.38",
     "autoprefixer": "^10.4.1",
+    "env-status": "^1.3.7",
     "eslint": "8.6.0",
     "eslint-config-next": "12.0.7",
     "postcss": "^8.4.5",
